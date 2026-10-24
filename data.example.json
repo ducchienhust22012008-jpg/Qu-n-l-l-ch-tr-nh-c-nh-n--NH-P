@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "Tasks": [],
+  "History": [],
+  "Balance": 0,
+  "Running": false,
+  "AnchorTicks": 0,
+  "Goals": [],
+  "Settings": {
+    "DefaultReward": 15
+  },
+  "FocusSessions": [],
+  "ActiveFocus": null,
+  "Deadlines": [],
+  "UnscheduledTasks": []
+}

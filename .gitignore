@@ -1,0 +1,30 @@
+# Runtime data and every backup/recovery variant
+/data/
+/data-*/
+**/nhip.json*
+# Generated previews, test data and test programs
+/verification/
+/releases/
+/dist/
+/bin/
+/obj/
+*.exe
+*.dll
+*.pdb
+*.zip
+*.log
+*.tmp
+# Editor and local configuration
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+Thumbs.db
+Desktop.ini
+.DS_Store
