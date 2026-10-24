@@ -103,17 +103,4 @@ Script tạo lại icon cần Python và Pillow; chúng không cần thiết đ�
 - Thống kê công việc của ngày trước phản ánh trạng thái hoàn thành hiện tại. Thời gian phiên qua nửa đêm được chia vào từng ngày; dữ liệu giải trí cũ được phân bổ gần đúng theo mốc lưu.
 - Khi ví đang trừ hoặc phiên tập trung đang chạy, đóng app bình thường để lưu/tạm dừng.
 
-## Đưa mã nguồn lên GitHub
 
-Khởi tạo repository trong thư mục mã nguồn:
-
-```powershell
-git init
-git add .
-git status
-git commit -m "Initial commit: Nhip 2.9"
-```
-
-Sau đó kết nối repository GitHub của bạn bằng Git hoặc GitHub Desktop. Đính kèm gói chạy portable vào **Releases** nếu muốn chia sẻ ứng dụng đã build. Các tệp `.exe`/`.zip` được bỏ qua khi commit mã nguồn.
-
-Repository này được chuẩn bị từ một bản sao riêng; dữ liệu của bản ứng dụng gốc được giữ nguyên.
